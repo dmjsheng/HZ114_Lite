@@ -1,0 +1,18 @@
+# Build output
+build/
+bin/
+obj/
+
+# IDE / Tool configs
+.cache/
+.idea/
+.vscode/
+
+# Compiled objects
+*.o
+*.obj
+*.d
+
+# OS files
+Thumbs.db
+.DS_Store
